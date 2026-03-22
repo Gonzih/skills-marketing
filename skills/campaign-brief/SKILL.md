@@ -31,3 +31,10 @@ Define 3–5 KPIs with target benchmarks for each channel and the overall campai
 
 ## Example outputs
 A structured 600–1000 word campaign brief covering: campaign overview, objective, target audience, messaging hierarchy, channel plan, KPIs with benchmarks, and budget allocation table. Formatted as a shareable document suitable for internal alignment or agency briefing.
+
+## Live Data Sources
+
+Use these sources to anchor creative decisions in real competitor spend and platform-level creative intelligence:
+
+- **Meta Ad Library API** (`facebook.com/ads/library/api`) — search active ads by competitor brand name and category; analyze creative formats, copy length, CTA patterns, and flight duration to identify what the market has already validated; note which ads have been running longest as a proxy for performance.
+- **Google Ads Transparency Center** (`adstransparency.google.com`) — review competitors' active Search and Display ads; surface keyword themes, headline formulas, and landing page promises to inform differentiated messaging and avoid category clichés.

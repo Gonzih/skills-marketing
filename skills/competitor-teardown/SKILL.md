@@ -31,3 +31,11 @@ Synthesize findings into an actionable opportunity map: 3–5 specific positioni
 
 ## Example outputs
 A structured competitive analysis covering: positioning summary, messaging audit, content theme map, weakness inventory, and a 3–5 point opportunity map with specific recommended moves. Formatted as a strategic document suitable for marketing leadership, agency briefings, or campaign planning sessions.
+
+## Live Data Sources
+
+Use these sources to ground the teardown in verifiable, current competitive signals rather than assumptions:
+
+- **SimilarWeb public data** (`similarweb.com`) — pull estimated monthly visits, traffic source breakdown, bounce rate, and top referring/destination sites; use traffic trends to detect whether the competitor's digital presence is growing or contracting.
+- **App Store ranking APIs** (Apple Search Ads Impression Share proxy via `App Store Connect`, Google Play rankings via `app-rankings` feeds) — track category rank movement and review velocity to gauge product momentum and customer satisfaction signals.
+- **Social engagement benchmarking** — use platform-native analytics proxies (public like/comment/share counts, follower-to-engagement ratios) alongside tools like Phlanx or publicly available data to benchmark the competitor's content performance; identify which content types drive disproportionate engagement relative to their norm.
