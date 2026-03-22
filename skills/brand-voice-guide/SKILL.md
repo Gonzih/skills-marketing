@@ -31,3 +31,11 @@ Assemble all elements into a structured guide: personality overview, tone spectr
 
 ## Example outputs
 A 500–800 word brand voice document with a personality summary, tone axes, power words, avoid list, 8 dos/don'ts with examples, and three channel-specific copy samples. Formatted as a reference document ready to share with writers, agencies, or AI tools.
+
+## Live Data Sources
+
+Use these sources to benchmark the brand's voice against real audience expectations and competitive norms:
+
+- **Social Blade public stats** (`socialblade.com`) — pull follower growth trajectories and engagement grade for the brand and 3–5 direct competitors; use grade deltas to infer which voice/content strategies are gaining audience trust.
+- **SimilarWeb public estimates** (`similarweb.com`) — review traffic sources and top referring sites to understand where the audience comes from and what adjacent content they consume; use this to calibrate the formality and depth of voice recommendations.
+- **Brand mention tracking patterns** — scan public social mentions (Twitter/X search, Reddit, Google News) for how the brand is already described by customers; extract recurring adjectives and phrases to validate or challenge the intended voice.

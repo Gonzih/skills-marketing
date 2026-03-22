@@ -31,3 +31,10 @@ Deliver a structured table or week-by-week breakdown with all post ideas, format
 
 ## Example outputs
 A 4-week calendar with 20–30 post ideas organized by week, platform, format, and copy hook. Includes a hashtag bank and a one-paragraph monthly narrative summary. Formatted as a table or structured list ready for import into a content management tool.
+
+## Live Data Sources
+
+Use these sources to ground the calendar in real-time topic momentum and community signals:
+
+- **Google Trends API** (`trends.google.com/trends/api`) — query interest-over-time for proposed content pillar keywords; prioritize topics with rising (not peaked) momentum curves; use geo and category filters to match the brand's market.
+- **Reddit trending via Pushshift patterns** — surface threads gaining velocity in relevant subreddits (use `r/<niche>` + sort by `top/week`); mine comment language for authentic vocabulary and unmet questions that can seed post hooks and FAQ content.
